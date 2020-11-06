@@ -1,0 +1,5 @@
+# 讓git忽略檔案的紀錄檔
+
+not_on_git.py 
+
+*.tmp 
